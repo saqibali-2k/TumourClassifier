@@ -1,6 +1,6 @@
 # Tumour Classifier
 
-A webapp that predicts whether an image of a skin tumor is benign or malignant. Diclaimer: this isn't supposed to provide an medical advice, its a fun experiment.
+A webapp that predicts whether an image of a skin tumor is benign or malignant. Disclaimer: this app is not created to provide medical advice, its just a fun experiment.
 
 # Structure
 
