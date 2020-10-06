@@ -21,5 +21,5 @@ When you have your picture, use the predict button.
 ![Using predict button](https://github.com/saqibali-2k/TumourClassifier/blob/main/readme_resources/tumor-classifier-usage.gif "Gif of using app")
 
 ### Todos: ###
-* Improve preprocessing to account for pictures that are not taken perfectly (wear there is little background noise, and the main focus is the tumour)
+* Improve preprocessing to account for pictures that are not taken perfectly  background noise, main focus is not tumour)
 * Improve CSS styling
