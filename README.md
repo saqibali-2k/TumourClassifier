@@ -16,7 +16,7 @@ You may upload images from your device using the browse button.
 You can use your camera to take a picture too.
 ![Using the camera feature](https://github.com/saqibali-2k/TumourClassifier/blob/main/readme_resources/camera_button.jpg "Camera button")
 
-Whem you have your picture, use the predict button.
+When you have your picture, use the predict button.
 
 ![Using predict button](https://github.com/saqibali-2k/TumourClassifier/blob/main/readme_resources/tumor-classifier-usage.gif "Gif of using app")
 
